@@ -1,0 +1,37 @@
+.form {
+    max-width: 600px;
+  }
+  
+  .id,
+  .name,
+  .engine,
+  .speed,
+  .pow {
+    margin-bottom: 1rem;
+  }
+  
+  .id ,
+  .name ,
+  .engine ,
+  .speed ,
+  .pow  {
+    display: inline-block;
+    width: 4rem;
+    text-align: right;
+    margin-right: 1rem;
+  }
+  
+  .id ,
+  .name ,
+  .engine ,
+  .speed ,
+  .pow  {
+    width: 150px;
+  }
+  
+  .submit {
+    margin-top: 1rem;
+    text-align: right;
+  }
+
+  
